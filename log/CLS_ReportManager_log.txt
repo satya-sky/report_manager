@@ -1,0 +1,741 @@
+DEBUG:root:Python file called20190404_172007
+DEBUG:root:20190404_172007||986||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_986.xls
+DEBUG:root:20190404_172007||986||: Info Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190404_172007||986||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190404_172007||986||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190404_172007||986||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190404_172007||986||: Deleted source files, temp files and temp folders
+DEBUG:root:Python file called20190404_173211
+DEBUG:root:20190404_173211||986||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_986.xls
+DEBUG:root:20190404_173211||986||: Info Sheet formatting started
+DEBUG:root:Python file called20190404_173406
+DEBUG:root:20190404_173406||986||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_986.xls
+DEBUG:root:20190404_173406||986||: Info Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190404_173406||986||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190404_173406||986||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190404_173406||986||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190404_173406||986||: Deleted source files, temp files and temp folders
+DEBUG:root:Python file called20190404_173710
+DEBUG:root:20190404_173710||865||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_865.xls
+DEBUG:root:20190404_173710||865||: Info Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190404_173710||865||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190404_173710||865||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190404_173710||865||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190404_173710||865||: Deleted source files, temp files and temp folders
+DEBUG:root:Python file called20190405_101226
+DEBUG:root:Python file called20190405_101226
+DEBUG:root:20190405_101226||683||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_683.xls
+DEBUG:root:20190405_101226||760||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_760.xls
+DEBUG:root:20190405_101226||760||: Info Sheet formatting started
+DEBUG:root:20190405_101226||683||: Info Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:root:20190405_101226||760||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101226||683||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101226||760||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_101226||760||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_101226||760||: Deleted source files, temp files and temp folders
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101226||683||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_101226||683||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_101226||683||: Deleted source files, temp files and temp folders
+DEBUG:root:Python file called20190405_101322
+DEBUG:root:20190405_101322||769||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_769.xls
+DEBUG:root:20190405_101322||769||: Info Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101322||769||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:Python file called20190405_101324
+DEBUG:root:20190405_101324||915||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_915.xls
+DEBUG:root:20190405_101324||915||: Info Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101324||915||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:Python file called20190405_101325
+DEBUG:root:Python file called20190405_101325
+DEBUG:root:Python file called20190405_101325
+DEBUG:root:20190405_101325||403||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_403.xls
+DEBUG:root:20190405_101325||683||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_683.xls
+DEBUG:root:20190405_101325||462||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_462.xls
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101324||915||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_101325||403||: Info Sheet formatting started
+DEBUG:root:20190405_101324||915||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_101324||915||: Deleted source files, temp files and temp folders
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101325||403||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:Python file called20190405_101325
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101325||403||: Data Sheet formatting completed
+DEBUG:root:20190405_101325||986||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_986.xls
+DEBUG:root:Sending email
+DEBUG:root:20190405_101325||403||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_101325||403||: Deleted source files, temp files and temp folders
+DEBUG:root:20190405_101325||462||: Info Sheet formatting started
+DEBUG:root:Python file called20190405_101325
+DEBUG:root:Python file called20190405_101326
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101325||462||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:20190405_101325||551||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_551.xls
+DEBUG:root:20190405_101326||865||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_865.xls
+DEBUG:root:Python file called20190405_101326
+DEBUG:root:20190405_101326||247||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_247.xls
+DEBUG:root:20190405_101325||986||: Info Sheet formatting started
+DEBUG:root:Python file called20190405_101326
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101325||986||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:20190405_101325||683||: Info Sheet formatting started
+DEBUG:root:Python file called20190405_101326
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101325||683||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:20190405_101326||855||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_855.xls
+DEBUG:root:20190405_101326||412||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_412.xls
+DEBUG:root:20190405_101326||865||: Info Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101326||865||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:Python file called20190405_101326
+DEBUG:root:Python file called20190405_101326
+DEBUG:root:Python file called20190405_101326
+DEBUG:root:20190405_101326||977||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_977.xls
+DEBUG:root:20190405_101326||311||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_311.xls
+DEBUG:root:20190405_101326||760||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_760.xls
+DEBUG:root:20190405_101326||247||: Info Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101326||247||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:20190405_101326||412||: Info Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101326||412||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:20190405_101326||760||: Info Sheet formatting started
+DEBUG:root:20190405_101325||551||: Info Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101326||760||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:20190405_101326||855||: Info Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101325||551||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:20190405_101326||311||: Info Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101326||855||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101326||311||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101326||977||: Info Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101326||977||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:20190405_101322||769||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_101322||769||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_101322||769||: Deleted source files, temp files and temp folders
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101326||760||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_101326||760||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_101326||760||: Deleted source files, temp files and temp folders
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101326||865||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_101326||865||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_101326||865||: Deleted source files, temp files and temp folders
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101326||311||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_101326||311||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_101326||311||: Deleted source files, temp files and temp folders
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101326||412||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101326||412||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_101326||412||: Deleted source files, temp files and temp folders
+DEBUG:root:20190405_101325||986||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_101325||986||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_101325||986||: Deleted source files, temp files and temp folders
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101326||247||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_101326||247||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_101326||247||: Deleted source files, temp files and temp folders
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101326||855||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_101325||683||: Data Sheet formatting completed
+DEBUG:root:20190405_101326||855||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_101326||855||: Deleted source files, temp files and temp folders
+DEBUG:root:Sending email
+DEBUG:root:20190405_101325||683||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_101325||683||: Deleted source files, temp files and temp folders
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101325||462||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_101325||462||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_101325||462||: Deleted source files, temp files and temp folders
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101326||977||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_101326||977||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_101326||977||: Deleted source files, temp files and temp folders
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_101325||551||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_101325||551||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_101325||551||: Deleted source files, temp files and temp folders
+DEBUG:root:Python file called20190405_122805
+DEBUG:root:20190405_122805||326||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_326.xls
+DEBUG:root:20190405_122805||326||: Info Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122805||326||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122805||326||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_122805||326||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_122805||326||: Deleted source files, temp files and temp folders
+DEBUG:root:Python file called20190405_122807
+DEBUG:root:20190405_122807||247||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_247.xls
+DEBUG:root:Python file called20190405_122807
+DEBUG:root:Python file called20190405_122807
+DEBUG:root:20190405_122807||551||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_551.xls
+DEBUG:root:20190405_122807||865||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_865.xls
+DEBUG:root:20190405_122807||683||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_683.xls
+DEBUG:root:20190405_122807||247||: Info Sheet formatting started
+DEBUG:root:20190405_122807||865||: Info Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122807||247||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122807||865||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:Python file called20190405_122808
+DEBUG:root:20190405_122807||683||: Info Sheet formatting started
+DEBUG:root:20190405_122808||760||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_760.xls
+DEBUG:root:Python file called20190405_122808
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122807||683||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:20190405_122807||551||: Info Sheet formatting started
+DEBUG:root:20190405_122808||855||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_855.xls
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122807||551||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:20190405_122808||760||: Info Sheet formatting started
+DEBUG:root:Python file called20190405_122808
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122808||760||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:20190405_122808||462||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_462.xls
+DEBUG:root:20190405_122808||855||: Info Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122808||855||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122808||462||: Info Sheet formatting started
+DEBUG:root:20190405_122808||760||: Data Sheet formatting completed
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122808||462||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:Sending email
+DEBUG:root:20190405_122808||760||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_122808||760||: Deleted source files, temp files and temp folders
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122807||865||: Data Sheet formatting completed
+DEBUG:root:Python file called20190405_122810
+DEBUG:root:Sending email
+DEBUG:root:20190405_122807||865||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_122807||865||: Deleted source files, temp files and temp folders
+DEBUG:root:20190405_122810||915||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_915.xls
+DEBUG:root:Python file called20190405_122810
+DEBUG:root:Python file called20190405_122810
+DEBUG:root:20190405_122810||146||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_146.xls
+DEBUG:root:20190405_122810||886||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_886.xls
+DEBUG:root:Python file called20190405_122810
+DEBUG:root:20190405_122810||915||: Info Sheet formatting started
+DEBUG:root:20190405_122810||999||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_999.xls
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122810||915||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:Python file called20190405_122810
+DEBUG:root:20190405_122810||146||: Info Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122810||146||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:20190405_122810||403||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_403.xls
+DEBUG:root:Python file called20190405_122810
+DEBUG:root:20190405_122810||999||: Info Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122810||412||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_412.xls
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:root:20190405_122810||146||: Data Sheet DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122810||999||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:Sending email
+DEBUG:root:20190405_122810||146||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_122810||146||: Deleted source files, temp files and temp folders
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122810||403||: Info Sheet formatting started
+DEBUG:root:20190405_122807||247||: Data Sheet formatting completed
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122810||403||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:20190405_122810||915||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:Sending email
+DEBUG:root:20190405_122810||915||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:Python file called20190405_122810
+DEBUG:root:20190405_122810||915||: Deleted source files, temp files and temp folders
+DEBUG:root:20190405_122807||247||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_122807||247||: Deleted source files, temp files and temp folders
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122810||339||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_339.xls
+DEBUG:root:20190405_122810||403||: Data Sheet formatting completed
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:Sending email
+DEBUG:root:Python file called20190405_122811
+DEBUG:root:20190405_122810||403||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_122810||403||: Deleted source files, temp files and temp folders
+DEBUG:root:20190405_122810||999||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_122811||311||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_311.xls
+DEBUG:root:20190405_122810||999||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_122810||999||: Deleted source files, temp files and temp folders
+DEBUG:root:20190405_122810||412||: Info Sheet formatting started
+DEBUG:root:Python file called20190405_122811
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122810||412||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:Python file called20190405_122811
+DEBUG:root:20190405_122810||339||: Info Sheet formatting started
+DEBUG:root:Python file called20190405_122811
+DEBUG:root:20190405_122811||935||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_935.xls
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122810||339||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:20190405_122811||986||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_986.xls
+DEBUG:root:20190405_122811||769||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_769.xls
+DEBUG:root:20190405_122811||935||: Info Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122811||935||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:20190405_122811||311||: Info Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122811||311||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122811||935||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_122810||886||: Info Sheet formatting started
+DEBUG:root:Python file called20190405_122811
+DEBUG:root:20190405_122811||935||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_122811||935||: Deleted source files, temp files and temp folders
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122810||886||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:20190405_122811||986||: Info Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122811||986||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:20190405_122811||977||Selections file found CLS_Selections_sbellala@skyitgroup_04-04-2019_977.xls
+DEBUG:root:20190405_122811||769||: Info Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122811||769||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:root:20190405_122810||339||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_122810||339||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_122810||339||: Deleted source files, temp files and temp folders
+DEBUG:root:20190405_122811||977||: Info Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122811||977||: Info Sheet formatting completed
+DEBUG:root:Data Sheet formatting started
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122811||311||: Data Sheet formatting completed
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:Sending email
+DEBUG:root:20190405_122811||311||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_122811||311||: Deleted source files, temp files and temp folders
+DEBUG:root:20190405_122810||412||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_122810||412||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_122810||412||: Deleted source files, temp files and temp folders
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122808||855||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122808||855||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_122808||855||: Deleted source files, temp files and temp folders
+DEBUG:root:20190405_122811||986||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_122811||769||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_122811||986||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_122811||986||: Deleted source files, temp files and temp folders
+DEBUG:root:20190405_122811||769||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_122811||769||: Deleted source files, temp files and temp folders
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122807||683||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122807||683||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_122807||683||: Deleted source files, temp files and temp folders
+DEBUG:root:20190405_122808||462||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_122808||462||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_122808||462||: Deleted source files, temp files and temp folders
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122811||977||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_122811||977||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_122811||977||: Deleted source files, temp files and temp folders
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122807||551||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_122807||551||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_122807||551||: Deleted source files, temp files and temp folders
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'sRGB' 41 1
+DEBUG:PIL.PngImagePlugin:STREAM b'gAMA' 54 4
+DEBUG:PIL.PngImagePlugin:STREAM b'pHYs' 70 9
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 91 1937
+DEBUG:root:20190405_122810||886||: Data Sheet formatting completed
+DEBUG:root:Sending email
+DEBUG:root:20190405_122810||886||: Email sent to sbellala@skyitgroup.com with attached report
+DEBUG:root:20190405_122810||886||: Deleted source files, temp files and temp folders
